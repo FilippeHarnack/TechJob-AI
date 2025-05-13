@@ -1,0 +1,12 @@
+
+---
+
+### 🔹 `.gitignore` (caso não tenha preenchido ainda)
+
+Abra e cole:
+
+```gitignore
+venv/
+__pycache__/
+*.pyc
+.env
